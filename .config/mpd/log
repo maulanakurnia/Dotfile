@@ -1,0 +1,86 @@
+Oct 13 11:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 11:50 : exception: Failed to open '/home/mufrad/.config/mpd/state': No such file or directory
+Oct 13 11:50 : config: option 'options' on line 10 was not recognized
+Oct 13 11:50 : update: added /02 Untukku.mp3
+Oct 13 11:50 : update: added /04 Pergilah Kasih.mp3
+Oct 13 11:50 : update: added /05 Sendiri Lagi.mp3
+Oct 13 11:50 : update: added /12 Puspa Indah.mp3
+Oct 13 11:50 : update: added /13 Maafkanlah.mp3
+Oct 13 11:50 : update: added /15 Selamat Jalan Kekasih.mp3
+Oct 13 11:50 : update: added /07 Marlina.mp3
+Oct 13 11:50 : update: added /08 Kisah Cintaku.mp3
+Oct 13 11:50 : update: added /10 Malam Pertama.mp3
+Oct 13 11:50 : update: added /06 Cintamu T'lah Berlalu.mp3
+Oct 13 11:50 : update: added /03 Kala Sang Surya Tenggelam.mp3
+Oct 13 11:50 : update: added /11 Kala Cinta Menggoda.mp3
+Oct 13 11:50 : update: added /09 Selamat Tinggal Sayang.mp3
+Oct 13 11:50 : update: added /01 Cintaku.mp3
+Oct 13 11:50 : update: added /14 Kesan Di Matamu.mp3
+Oct 13 11:50 : update: added Chrisye/02 Untukku.mp3
+Oct 13 11:50 : update: added Chrisye/04 Pergilah Kasih.mp3
+Oct 13 11:50 : update: added Chrisye/05 Sendiri Lagi.mp3
+Oct 13 11:50 : update: added Chrisye/12 Puspa Indah.mp3
+Oct 13 11:50 : update: added Chrisye/13 Maafkanlah.mp3
+Oct 13 11:50 : update: added Chrisye/15 Selamat Jalan Kekasih.mp3
+Oct 13 11:50 : update: added Chrisye/07 Marlina.mp3
+Oct 13 11:50 : update: added Chrisye/08 Kisah Cintaku.mp3
+Oct 13 11:50 : update: added Chrisye/10 Malam Pertama.mp3
+Oct 13 11:50 : update: added Chrisye/06 Cintamu T'lah Berlalu.mp3
+Oct 13 11:50 : update: added Chrisye/03 Kala Sang Surya Tenggelam.mp3
+Oct 13 11:50 : update: added Chrisye/11 Kala Cinta Menggoda.mp3
+Oct 13 11:50 : update: added Chrisye/09 Selamat Tinggal Sayang.mp3
+Oct 13 11:50 : update: added Chrisye/01 Cintaku.mp3
+Oct 13 11:50 : update: added Chrisye/14 Kesan Di Matamu.mp3
+Oct 13 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 11:57 : player: played "01 Cintaku.mp3"
+Oct 13 11:59 : player: played "02 Untukku.mp3"
+Oct 13 11:59 : exception: Not playing
+Oct 13 11:59 : exception: Not playing
+Oct 13 12:04 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 12:04 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:04 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:04 : player: played "01 Cintaku.mp3"
+Oct 13 12:05 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:07 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:07 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:07 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:07 : player: played "02 Untukku.mp3"
+Oct 13 12:07 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:07 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:11 : exception: Failed to open audio output
+Oct 13 12:12 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 12:13 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:13 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:13 : player: played "01 Cintaku.mp3"
+Oct 13 12:13 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:13 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:17 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:17 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:18 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:18 : player: played "02 Untukku.mp3"
+Oct 13 12:18 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:18 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:18 : player: played "02 Untukku.mp3"
+Oct 13 12:22 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 12:28 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:28 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:28 : player: played "01 Cintaku.mp3"
+Oct 13 12:28 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:28 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:28 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:32 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:32 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:32 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:32 : player: played "02 Untukku.mp3"
+Oct 13 12:32 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:32 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:32 : player: played "02 Untukku.mp3"
+Oct 13 12:37 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 18:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 18:41 : config: option 'options' on line 10 was not recognized
+Oct 13 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 18:46 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 18:47 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 18:47 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 18:47 : player: played "01 Cintaku.mp3"
