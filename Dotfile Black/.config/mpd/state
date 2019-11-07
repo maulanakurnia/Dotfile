@@ -1,0 +1,18 @@
+sw_volume: 100
+audio_device_state:1:My Pulse Output
+audio_device_state:1:My fifo output
+state: stop
+current: 1
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:01 Cintaku.mp3
+1:Chrisye/01 Cintaku.mp3
+2:02 Untukku.mp3
+3:Chrisye/03 Kala Sang Surya Tenggelam.mp3
+playlist_end

@@ -1,0 +1,247 @@
+Oct 13 11:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 11:50 : exception: Failed to open '/home/mufrad/.config/mpd/state': No such file or directory
+Oct 13 11:50 : config: option 'options' on line 10 was not recognized
+Oct 13 11:50 : update: added /02 Untukku.mp3
+Oct 13 11:50 : update: added /04 Pergilah Kasih.mp3
+Oct 13 11:50 : update: added /05 Sendiri Lagi.mp3
+Oct 13 11:50 : update: added /12 Puspa Indah.mp3
+Oct 13 11:50 : update: added /13 Maafkanlah.mp3
+Oct 13 11:50 : update: added /15 Selamat Jalan Kekasih.mp3
+Oct 13 11:50 : update: added /07 Marlina.mp3
+Oct 13 11:50 : update: added /08 Kisah Cintaku.mp3
+Oct 13 11:50 : update: added /10 Malam Pertama.mp3
+Oct 13 11:50 : update: added /06 Cintamu T'lah Berlalu.mp3
+Oct 13 11:50 : update: added /03 Kala Sang Surya Tenggelam.mp3
+Oct 13 11:50 : update: added /11 Kala Cinta Menggoda.mp3
+Oct 13 11:50 : update: added /09 Selamat Tinggal Sayang.mp3
+Oct 13 11:50 : update: added /01 Cintaku.mp3
+Oct 13 11:50 : update: added /14 Kesan Di Matamu.mp3
+Oct 13 11:50 : update: added Chrisye/02 Untukku.mp3
+Oct 13 11:50 : update: added Chrisye/04 Pergilah Kasih.mp3
+Oct 13 11:50 : update: added Chrisye/05 Sendiri Lagi.mp3
+Oct 13 11:50 : update: added Chrisye/12 Puspa Indah.mp3
+Oct 13 11:50 : update: added Chrisye/13 Maafkanlah.mp3
+Oct 13 11:50 : update: added Chrisye/15 Selamat Jalan Kekasih.mp3
+Oct 13 11:50 : update: added Chrisye/07 Marlina.mp3
+Oct 13 11:50 : update: added Chrisye/08 Kisah Cintaku.mp3
+Oct 13 11:50 : update: added Chrisye/10 Malam Pertama.mp3
+Oct 13 11:50 : update: added Chrisye/06 Cintamu T'lah Berlalu.mp3
+Oct 13 11:50 : update: added Chrisye/03 Kala Sang Surya Tenggelam.mp3
+Oct 13 11:50 : update: added Chrisye/11 Kala Cinta Menggoda.mp3
+Oct 13 11:50 : update: added Chrisye/09 Selamat Tinggal Sayang.mp3
+Oct 13 11:50 : update: added Chrisye/01 Cintaku.mp3
+Oct 13 11:50 : update: added Chrisye/14 Kesan Di Matamu.mp3
+Oct 13 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 11:57 : player: played "01 Cintaku.mp3"
+Oct 13 11:59 : player: played "02 Untukku.mp3"
+Oct 13 11:59 : exception: Not playing
+Oct 13 11:59 : exception: Not playing
+Oct 13 12:04 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 12:04 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:04 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:04 : player: played "01 Cintaku.mp3"
+Oct 13 12:05 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:07 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:07 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:07 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:07 : player: played "02 Untukku.mp3"
+Oct 13 12:07 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:07 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:11 : exception: Failed to open audio output
+Oct 13 12:12 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 12:13 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:13 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:13 : player: played "01 Cintaku.mp3"
+Oct 13 12:13 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:13 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:17 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:17 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:18 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:18 : player: played "02 Untukku.mp3"
+Oct 13 12:18 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:18 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:18 : player: played "02 Untukku.mp3"
+Oct 13 12:22 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 12:28 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:28 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:28 : player: played "01 Cintaku.mp3"
+Oct 13 12:28 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 12:28 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 12:28 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:32 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:32 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:32 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 12:32 : player: played "02 Untukku.mp3"
+Oct 13 12:32 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 12:32 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 12:32 : player: played "02 Untukku.mp3"
+Oct 13 12:37 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 18:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 18:41 : config: option 'options' on line 10 was not recognized
+Oct 13 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 18:46 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 18:47 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 18:47 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 18:47 : player: played "01 Cintaku.mp3"
+Oct 13 18:51 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 18:51 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 18:51 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 18:51 : player: played "02 Untukku.mp3"
+Oct 13 18:51 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 18:51 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 18:51 : player: played "02 Untukku.mp3"
+Oct 13 18:56 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 13 22:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 22:59 : config: option 'options' on line 10 was not recognized
+Oct 13 22:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : player: played "02 Untukku.mp3"
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : player: played "02 Untukku.mp3"
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : player: played "02 Untukku.mp3"
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : player: played "02 Untukku.mp3"
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 22:59 : player: played "02 Untukku.mp3"
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 22:59 : player: played "01 Cintaku.mp3"
+Oct 13 22:59 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 13 22:59 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 13 23:04 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 23:04 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 23:04 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 13 23:04 : player: played "02 Untukku.mp3"
+Oct 13 23:04 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 13 23:04 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 13 23:04 : player: played "02 Untukku.mp3"
+Oct 14 00:32 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 14 09:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 14 09:05 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 15 05:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 15 05:44 : config: option 'options' on line 10 was not recognized
+Oct 15 08:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 15 08:50 : config: option 'options' on line 10 was not recognized
+Oct 15 09:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 15 09:48 : config: option 'options' on line 10 was not recognized
+Oct 15 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 15 11:32 : config: option 'options' on line 10 was not recognized
+Oct 15 22:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 15 22:18 : config: option 'options' on line 10 was not recognized
+Oct 16 03:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 16 03:24 : config: option 'options' on line 10 was not recognized
+Oct 16 11:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 16 11:55 : config: option 'options' on line 10 was not recognized
+Oct 16 18:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 16 18:52 : config: option 'options' on line 10 was not recognized
+Oct 17 10:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:02 : config: option 'options' on line 10 was not recognized
+Oct 17 10:09 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 17 10:09 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 17 10:09 : player: played "01 Cintaku.mp3"
+Oct 17 10:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:13 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 17 10:13 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 17 10:13 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 17 10:13 : player: played "02 Untukku.mp3"
+Oct 17 10:13 : exception: Failed to decode /home/mufrad/Music/02 Untukku.mp3
+Oct 17 10:13 : exception: nested: Failed to open '/home/mufrad/Music/02 Untukku.mp3': No such file or directory
+Oct 17 10:13 : player: played "02 Untukku.mp3"
+Oct 17 10:18 : player: played "Chrisye/03 Kala Sang Surya Tenggelam.mp3"
+Oct 17 15:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 15:09 : config: option 'options' on line 10 was not recognized
+Oct 18 05:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 18 05:43 : config: option 'options' on line 10 was not recognized
+Oct 18 09:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 18 09:53 : config: option 'options' on line 10 was not recognized
+Oct 20 17:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 20 17:46 : config: option 'options' on line 10 was not recognized
+Oct 21 08:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 21 08:13 : config: option 'options' on line 10 was not recognized
+Oct 21 17:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 21 17:15 : config: option 'options' on line 10 was not recognized
+Oct 22 21:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 22 21:54 : config: option 'options' on line 10 was not recognized
+Oct 23 23:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 23:54 : config: option 'options' on line 10 was not recognized
+Oct 24 07:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 07:25 : config: option 'options' on line 10 was not recognized
+Oct 24 16:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 16:13 : config: option 'options' on line 10 was not recognized
+Oct 24 16:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 16:47 : config: option 'options' on line 10 was not recognized
+Oct 24 19:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:03 : config: option 'options' on line 10 was not recognized
+Oct 24 19:11 : exception: Failed to decode /home/mufrad/Music/01 Cintaku.mp3
+Oct 24 19:11 : exception: nested: Failed to open '/home/mufrad/Music/01 Cintaku.mp3': No such file or directory
+Oct 24 19:11 : player: played "01 Cintaku.mp3"
+Oct 24 19:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 19:11 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 24 19:11 : player: played "Chrisye/01 Cintaku.mp3"
+Oct 27 16:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 16:02 : config: option 'options' on line 10 was not recognized
+Oct 28 13:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 28 13:08 : config: option 'options' on line 10 was not recognized
+Oct 29 17:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 29 17:59 : config: option 'options' on line 10 was not recognized
+Oct 29 22:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 29 22:22 : config: option 'options' on line 10 was not recognized
+Oct 30 16:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 16:33 : config: option 'options' on line 10 was not recognized
+Oct 30 18:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 18:33 : config: option 'options' on line 10 was not recognized
+Oct 31 11:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 31 11:10 : config: option 'options' on line 10 was not recognized
+Oct 31 22:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 31 22:37 : config: option 'options' on line 10 was not recognized
+Nov 01 06:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 06:04 : config: option 'options' on line 10 was not recognized
+Nov 01 13:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 13:06 : config: option 'options' on line 10 was not recognized
+Nov 02 03:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 03:08 : config: option 'options' on line 10 was not recognized
+Nov 02 22:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 22:43 : config: option 'options' on line 10 was not recognized
+Nov 03 08:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 08:42 : config: option 'options' on line 10 was not recognized
+Nov 03 18:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 18:10 : config: option 'options' on line 10 was not recognized
+Nov 03 23:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:19 : config: option 'options' on line 10 was not recognized
+                                                                                                                                                                                                                    Nov 04 03:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 03:18 : config: option 'options' on line 10 was not recognized
+                                                                                                                                                                                                                    Nov 04 06:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 06:18 : config: option 'options' on line 10 was not recognized
+Nov 04 17:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 17:06 : config: option 'options' on line 10 was not recognized
+Nov 04 19:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 19:41 : config: option 'options' on line 10 was not recognized
+Nov 04 21:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 21:32 : config: option 'options' on line 10 was not recognized
+Nov 04 22:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 22:59 : config: option 'options' on line 10 was not recognized
+Nov 05 03:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 03:20 : config: option 'options' on line 10 was not recognized
+Nov 05 20:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 20:03 : config: option 'options' on line 10 was not recognized
+Nov 06 09:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 09:31 : config: option 'options' on line 10 was not recognized
+Nov 07 02:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 02:15 : config: option 'options' on line 10 was not recognized
