@@ -1,0 +1,296 @@
+# BY : Mufrad Mabni
+#-----------------------------------------------------------------#
+#                      CONFIGURATION                              #
+#-----------------------------------------------------------------#
+
+[global/wm]
+    margin-top    = 0
+    margin-bottom = 0
+
+[color]
+    white     = #fff
+    base      = #efebe0
+    brown     = #666
+    orange    = #fbb253
+    orange2   = #99ef7922
+    purple    = #e58a95
+    red 	  = #f1383d
+    red2      = #99f1383d
+    pink 	  = #f26262
+    pink2 	  = #f64d64
+    blue 	  = #19aed3
+    cyan 	  = #00BCD4
+    cyan2     = #00ff001C
+    adapta    = #263238
+    solarized = #002b36
+    green     = #9998FB98
+    onedark   = #282c34
+
+[bar/top]
+    override-redirect = false
+    bottom = false
+    fixed-center = true
+
+    width = 100%
+    height = 20
+
+    font-0  = SF UI Display:size=10;1
+    # font-1  = Wuncon Siji:size=10;2
+    font-1  = icomoon\-feather:style=Medium:size=10;1
+    # font-3  = LineAwesome:stylesize=10;3
+    font-2 = Hack Nerd Font:pixelsize=10;2
+
+
+
+    #background = ${color.onedark}
+    #foreground = ${color.white}
+
+    background = #66000000
+    background-alt = #222
+    foreground = #fafafa
+    foreground-alt = #666666
+    
+    line-color = ${color.cyan}
+    underline-size = 0
+    overline-size = 0
+
+    border-bottom-size = 1
+    ;border-bottom-color = ${color.cyan}
+
+    padding-left = 2
+    padding-right = 2
+    module-margin-left = 1
+    module-margin-right = 3
+
+    tray-position = right
+    tray-padding = 0
+    tray-maxsize = 16
+
+    scroll-up = i3wm-wsnext
+    scroll-down = i3wm-wsprev
+
+#----[ Mod Loc ]----------------------------------------------------------
+
+modules-left = arch xwindow
+modules-center = i3
+modules-right =  xkeyboard battery volume  network date search settings  
+
+#-----[ Scripts ]----------------------------------------------------------
+# Example
+# Directory = ~/.config/polybar/scripts/
+
+#[module/gmail]
+#type = custom/script
+#exec = ~/.config/polybar/scripts/polybar-gmail/launch.py
+#tail = true
+#click-left = xdg-open https://mail.google.com
+
+#-----[ Modules ]----------------------------------------------------------- 
+
+[module/arch]
+    type = custom/script
+    exec = echo ""
+    label-font = 5
+    click-left = appsmenu
+
+[module/xwindow]
+    type = internal/xwindow
+    format = <label>
+    label = %title%
+    label-maxlen = 25
+
+[module/i3]
+    type = internal/i3
+    strip-wsnumbers = true
+    wrapping-scroll = false
+
+    label-focused =%name%
+    label-focused-foreground = ${color.white}
+    label-focused-background = ${color.cyan2}
+    label-focused-padding = 1
+
+    label-unfocused =%name%
+    label-unfocused-padding = 1
+
+    label-visible =%name%
+    label-visible-padding = 1
+
+    label-urgent =%name%
+    label-urgent-background = ${color.adapta}
+    label-urgent-foreground = ${color.red}
+    label-urgent-padding = 1
+
+
+
+[module/window_switch]
+    type = custom/script
+    interval = 5
+    label = %output%
+    click-left = skippy-xd
+    click-right = rofr.sh -w
+    exec = echo " WS"
+    format = <label>
+
+
+
+[module/home]
+    type = internal/fs
+    interval = 25
+
+    mount-0 = /
+    ;label-mounted =  %percentage_used%%
+    label-mounted =  %percentage_used%%
+    label-unmounted = %mountpoint% not mounted
+    label-unmounted-foreground = ${color.pink}
+
+
+
+[module/xkeyboard]
+    type = internal/xkeyboard
+    blacklist-0 = num lock
+
+    format-prefix = " "
+    format-prefix-foreground = ${color.white}
+    ;format-prefix-underline = ${color.white}
+
+    label-layout = %layout%
+    label-layout-underline = ${color.white}
+
+    label-indicator-padding = 0
+    ;label-indicator-margin = 1
+    label-indicator-background = ${color.adapta}
+    label-indicator-foreground = ${color.cyan}
+    ;label-indicator-underline = ${color.cyan}
+
+
+
+[module/battery]
+    type = internal/battery
+
+    full-at = 100
+
+    ; Use the following commanto list batteries and adapters:
+    ; $ ls -1 /sys/class/powerupply/
+        battery = BAT0
+        adapter = ADP0
+
+        poll-interval = 5
+
+        time-format = %H:%M
+
+        format-charging = <label-charging>  <animation-charging>
+        format-discharging = <label-discharging>  <ramp-capacity>
+
+        label-charging = %percentage%%
+        label-full = Fully Charged
+        label-discharging = %percentage%%
+
+        ramp-capacity-0 = 
+        ramp-capacity-1 = 
+        ramp-capacity-2 = 
+        ramp-capacity-3 = 
+        ramp-capacity-4 = 
+
+        bar-capacity-width = 10
+
+        animation-charging-0 = 
+        animation-charging-1 = 
+        animation-charging-2 = 
+        animation-charging-3 = 
+        animation-charging-4 = 
+
+        animation-charging-framerate = 750
+
+        animation-discharging-0 = 
+        animation-discharging-1 = 
+        animation-discharging-2 = 
+        animation-discharging-3 = 
+        animation-discharging-4 = 
+
+        animation-discharging-framerate = 500
+
+        label-font = 4
+
+[module/volume]
+    type = internal/pulseaudio
+
+    format-volume = <ramp-volume> <label-volume>
+    label-volume = %percentage%%
+
+    label-muted =  Muted
+    label-muted-foreground = #990a00
+
+    ramp-volume-0 = 
+    ramp-volume-1 = 
+    ramp-volume-2 = 
+    ramp-volume-3 = 
+    ramp-volume-4 = 
+
+    ramp-headphones-0 = 
+    ramp-headphones-1 = 
+
+
+
+
+[module/network]
+    type = custom/script
+    exec = check-network
+    click-left = networkmenu &
+    click-right = networkmenu &
+    tail = true
+
+    [module/network2]
+    type = internal/network
+    interface = wlp0s20f3
+    click-left = networkmenu &
+    click-right = networkmenu &
+
+    ; Available tags:
+    ;   <label-connected> (default)
+    ;   <ramp-signal>
+    format-connected = <label-connected>
+
+    ; Default: %ifname% %local_ip%
+    label-connected = %essid%
+    label-connected-foreground = #eefafafa
+
+
+[module/time]
+    type = internal/date
+    interval = 30
+    label =  %time%
+    time = %I:%M %p
+    time-alt = %a, %d %b 
+    ;time-alt =  %a, %d %b 
+
+    ;%a, %d %b %Y
+
+[module/date]
+    type = internal/date
+    interval = 30
+    date = "%a, %d %b "
+    time = %I:%M %p
+    label = %date% %time%
+
+
+
+[module/sysmenu]
+    type = custom/text
+
+    content ="   "
+    content-background = ${color.red2}
+    content-foreground = ${color.white}
+    click-left  = ~/.config/polybar/scripts/powermenu
+    click-right = ~/.config/polybar/scripts/powermenu-alt
+
+[module/settings]
+    type = custom/script
+    exec = echo ""
+    click-left = terminator -e "vim $HOME/.config/polybar/config.top"
+    label-font = 5
+
+[module/search]
+    type = custom/script
+
+    #click-left = rofi-apps xdg-open "https://www.google.com/search?q=$(rofi -dmenu -p 'Google:')" &
+    exec = echo ""
